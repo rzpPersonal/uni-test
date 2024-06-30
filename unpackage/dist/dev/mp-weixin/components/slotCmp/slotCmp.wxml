@@ -1,0 +1,1 @@
+<view>自定义组件<slot></slot>具名组件<view><slot name="header"></slot></view><view><slot name="footer"></slot><scoped-slots-footer user="{{user}}" class="scoped-ref" bind:__l="__l"></scoped-slots-footer></view></view>

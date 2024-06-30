@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "my-cmp": "/components/myCmp/myCmp",
+    "define-text": "/pages/list/componens/defineText/defineText"
+  }
+}

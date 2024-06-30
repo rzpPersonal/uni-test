@@ -1,0 +1,1 @@
+<view>{{'nihao \n\t'+title+"\n\t"+number+''}}<view><button data-event-opts="{{[['tap',[['changeTitle',['$event']]]]]}}" bindtap="__e">点击</button></view></view>

@@ -1,0 +1,1 @@
+<view class="row"><input type="text" name="{{name}}" placeholder="请输入具体内容" data-event-opts="{{[['input',[['handleInput',['$event']]]]]}}" value="{{title}}" bindinput="__e"/></view>
